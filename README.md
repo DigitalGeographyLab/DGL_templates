@@ -10,4 +10,4 @@ The templates are here to help DGL researches publish their code/scripts on GitH
 
 # How do I use the templates?
 
-You select the file you want ([detailed](detailed.md) or [minimal](minimal.md)), copy paste its content to your own GitHub repository's readme.md file. Then replace the pig latin text with your own.
+You select the file you want ([detailed](detailed.md) or [minimal](minimal.md)), click on the `pencil` logo in the upper right corner after selection, copy paste the raw text to your own GitHub repository's readme.md file. Then replace the filler texts with your own proper text.
